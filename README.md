@@ -1,4 +1,4 @@
-**OLA trigger config to control Shelly DALI Dimmer Gen3 with DMX (Art-Net, sACN or via DMX input)**
+**OLA trigger config to control DALI lights using Shelly DALI Dimmer Gen3 with DMX (Art-Net, sACN or via DMX input)**
 
 **Requirements**  
 
