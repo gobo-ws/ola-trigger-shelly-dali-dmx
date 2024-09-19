@@ -4,7 +4,7 @@
 
 * [OLA](https://www.openlighting.org/ola/)
 * [curl](https://curl.haxx.se/)
-* [Shelly DALI Dimmer Gen3](https://shelly.cloud/)
+* [Shelly DALI Dimmer Gen3](https://www.shelly.com/en-se/products/product-overview/1xsddgen3)
 
 **Installation**
   
