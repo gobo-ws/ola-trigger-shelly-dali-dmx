@@ -8,7 +8,7 @@
 
 **Installation**
   
-* Download the [shelly-daliconf](shelly-dali.conf) file and edit the configuration section  
+* Download the [shelly-dali.conf](shelly-dali.conf) file and edit the configuration section  
 
 [OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
