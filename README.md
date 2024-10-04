@@ -5,6 +5,7 @@
 * [OLA](https://www.openlighting.org/ola/)
 * [curl](https://curl.haxx.se/)
 * [Shelly DALI Dimmer Gen3](https://www.shelly.com/en-se/products/product-overview/1xsddgen3)
+* The following products are likely also supported: Shelly Plus WallDimmer, Shelly Plus 0-10V Dimmer, Shelly Pro Dimmer 1 PM, Shelly Pro Dimmer 0/1-10V PM, Shelly Dimmer 0/1-10V PM
 
 **Installation**
   
